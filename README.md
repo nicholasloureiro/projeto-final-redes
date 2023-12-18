@@ -22,7 +22,7 @@ Vamos criar mais 5 máquinas na Rede Interna B. Os desktops usarão DHCP, enquan
 ## Equipamentos
 
 - 1 Router 1841
-- 3 Switches 2960 24TT
+- 2 Switches 2960 24TT
 
 ## Objetivo
 
