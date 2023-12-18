@@ -30,5 +30,6 @@ O objetivo final é que um dos desktops da Rede A consiga acessar o site do Serv
 
 ## Resultado
 
-![pkt](https://github.com/nicholasloureiro/projeto-final-redes/assets/105894972/b2258ba1-29c9-4cbd-ad17-585a5dccd23e)
+![image](https://github.com/nicholasloureiro/projeto-final-redes/assets/105894972/95c37322-6339-440e-ad00-db3f01288876)
+
 
